@@ -1,0 +1,3 @@
+[submodule "extern/hay-tedder"]
+	path = extern/hay-tedder
+	url = https://github.com/schanur/hay-tedder.git
