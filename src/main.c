@@ -1,8 +1,7 @@
-#include "stdio.h"
+/* #include "stdio.h" */
 
 int main(void)
 {
-    printf("Hello my little AVR\n");
 
-    return 0;
+    while (1);
 }

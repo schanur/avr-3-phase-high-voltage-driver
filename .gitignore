@@ -1,1 +1,4 @@
+# Temporary Emacs files
+.*~
+
 build/
